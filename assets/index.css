@@ -1,0 +1,294 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.container1{
+    margin: 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container2{
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header{
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 7px;
+    margin-top: 7px;
+}
+.head{
+    text-align: center;
+    align-items: center;
+    margin: 0px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+
+
+.image1{
+    height: 391px;
+    background-image: url("../assets/IMAGE-22.png");
+    background-repeat: no-repeat;
+    background-position-y: center;
+    background-position-x: center;
+    background-size: cover;
+}
+
+.container3{
+    padding-top: 110px;
+    padding-bottom: 110px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+
+
+.makingbrand{
+    align-items: center;
+    margin-bottom: 16px;
+    font-weight: 700;
+    size: 44px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.vollcorn{
+    font-weight: 700;
+    margin: 0px;
+    font-family: 'Vollkorn', serif;
+}
+
+
+.container4{
+    padding: 60px 250px;
+    background-color: #F5F5F5;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    flex-direction: column;
+}
+.article1{
+    text-align: center;
+    size: 18px;
+    font-weight: 400;
+}
+.getintouch{
+    margin-top: 60px;
+    border: 1px solid black;
+    padding-left: 26.5px;
+    padding-right: 26.5px;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 0%;
+}
+
+.brands{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    padding: 69px 250px;
+}
+
+.brandsart{
+    font-family: 'Vollkorn', serif;
+}
+.container5{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.container5_1{
+    margin-top: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.imgbrands{
+    width: 150px;
+    padding: 50px 90px;
+    background-color: #F5F5F5;
+    
+}
+
+.recent_projects{
+    display: flex;
+    flex-direction: column;
+    padding-top: 60px;
+    background-color: #F5F5F5;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 90px;
+}
+
+.recent{
+    padding-bottom: 40px;
+}
+
+.recent_1{
+    margin: 20px 250px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.recent_1_1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+}
+
+.recent_1_2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+}
+
+.recent_1_3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+}
+
+
+.art_recent{
+    font-family: 'Vollkorn', serif;
+    padding-bottom: 20px;
+}
+
+.our_team_1{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.our_team{
+    padding-top: 50px;
+}
+
+.our_team_2{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 90px;
+    margin-top: 40px;
+}
+
+.our_team_2_1{
+    margin: 10px 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.review{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #F5F5F5;
+}
+
+.review_h{
+    font-family: 'Vollkorn', serif;
+}
+
+.review_1{
+    display: flex;
+    justify-content: space-around;
+}
+
+.review_2_1{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-left: 60px;
+    margin-right: 70px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-right: 2px solid white;
+    padding-right: 100px;
+}
+
+.img_re{
+    padding-top: 60px;
+}
+
+.review_2_2{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-left: 60px;
+    margin-right: 70px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.image2{
+    height: 517px;
+    background-image: url("../assets/IMAGE24.png");
+    background-repeat: no-repeat;
+    background-position-y: center;
+    background-position-x: center;
+    background-size: cover;
+}
+
+.contacts{
+    padding-top: 100px;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+
+}
+
+.contacts_2{
+    margin-top: 90px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contacts_1{
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.name_review{
+    color:#ABABAB;
+}
+.cont{
+    padding-top: 15px;
+}
+
+.cont_1{
+    padding-top: 9px;
+}
+
+a { 
+    text-decoration: none;
+    color: black;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
